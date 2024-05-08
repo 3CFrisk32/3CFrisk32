@@ -1,6 +1,6 @@
 ### Bem vindo ao meu perfil👋
 
-Meu nome é Davi Glsser
+Meu nome é Davi Glasser
 
 -Estou estudando na Alura
 
